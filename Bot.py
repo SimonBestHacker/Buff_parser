@@ -12,7 +12,6 @@ from aiogram.methods.send_photo import SendPhoto
 from aiogram.utils.text_decorations import markdown_decoration
 from aiogram import html
 from aiogram.enums import ParseMode
-import asyncio
 
 
 # logging
